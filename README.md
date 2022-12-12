@@ -4,3 +4,7 @@
   - https://www.jsdelivr.com/?docs=gh
 - 参考教程
   - https://juejin.cn/post/6975054234651721758
+
+- 参考链接
+- 原图 https://raw.githubusercontent.com/lmmsoft/image/main/mmry_logo3.png
+- CDN: https://cdn.jsdelivr.net/gh/lmmsoft/image@main/main/mmry_logo3.png
