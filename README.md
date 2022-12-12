@@ -7,4 +7,4 @@
 
 - 参考链接
 - 原图 https://raw.githubusercontent.com/lmmsoft/image/main/mmry_logo3.png
-- CDN: https://cdn.jsdelivr.net/gh/lmmsoft/image@main/main/mmry_logo3.png
+- CDN: https://cdn.jsdelivr.net/gh/lmmsoft/image@main/mmry_logo3.png
